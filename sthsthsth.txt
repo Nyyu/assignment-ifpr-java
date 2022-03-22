@@ -1,5 +1,0 @@
-(JVM) Garbage collector -> Any filled space in the memory that's not assigned to any variable
-
-Using java your not COPYING the variable nor you ARE changing it directly, you r just pointing at the coordinates that represent your variable in the memory, once you change a var your just re-allocating that arrow towards sth else. 
-
-Nodes (nós or nodos) -> A empty space that's used to store sth, usually used in node chains to create  LINKEDlists (Obs. arraylist uses arrays!)
